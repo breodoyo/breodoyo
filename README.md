@@ -42,13 +42,14 @@ I build backend services, REST APIs, and database-driven applications. I enjoy s
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breodoyo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E6EDF3&icon_color=C9A227" alt="Brender's GitHub Stats" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breodoyo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E6EDF3" alt="Most Used Languages" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages" />
 
 </div>
 
