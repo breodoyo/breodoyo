@@ -38,3 +38,26 @@ I build backend services, REST APIs, and database-driven applications. I enjoy s
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,js,ts,react,html,css,postgres,sqlite,docker,git,github,linux,python,vscode" />
 </p>
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breodoyo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E6EDF3&icon_color=C9A227" alt="Brender's GitHub Stats" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breodoyo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E6EDF3" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=breodoyo&theme=dark&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak" />
+
+</div>
