@@ -55,6 +55,20 @@ I build backend services, REST APIs, and database-driven applications. I enjoy s
 
 ---
 
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=breodoyo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+
 ## 🔥 Contribution Streak
 
 <div align="center">
